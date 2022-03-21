@@ -1,7 +1,7 @@
 {
     "name": "Cabeza Cenicero",
     "description": "Best player",
-    "image": "https://raw.githubusercontent.com/canochaba/AssetsNFT/main/Zosco.png"
+    "image": "https://raw.githubusercontent.com/canochaba/AssetsNFT/main/Zosco.png",
     "speed": 90,
     "attack": 80,
     "defense": 70
