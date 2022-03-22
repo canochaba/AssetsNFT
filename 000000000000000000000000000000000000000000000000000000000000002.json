@@ -1,8 +1,50 @@
 {
-    "name": "Cabeza Cenicero",
-    "description": "Best player",
-    "image": "https://raw.githubusercontent.com/canochaba/AssetsNFT/main/Zosco.png",
-    "speed": 90,
-    "attack": 80,
-    "defense": 70
+    "name": "El rubito",
+    "description": "Iran Vakitic",
+    "image": "https://raw.githubusercontent.com/canochaba/AssetsNFT/main/cara091_izq.png",
+    "attributes": [
+    {
+      "trait_type": "Position", 
+      "value": "Forward"
+    }, 
+    {
+      "trait_type": "Speed", 
+      "value": 60
+    },
+    {
+      "trait_type": "Attack", 
+      "value": 90
+    },   
+    {
+      "trait_type": "Defense", 
+      "value": 20
+    }, 
+    {
+      "trait_type": "Dribbling", 
+      "value": 50
+    }, 
+    {
+      "trait_type": "Stamina", 
+      "value": 100.0
+    }, 
+    {
+      "trait_type": "Personality", 
+      "value": "Happy"
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Crow shot", 
+      "value": 60
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Snake pass", 
+      "value": 30
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Stars", 
+      "value": 2
+    }
+  ]
 }
