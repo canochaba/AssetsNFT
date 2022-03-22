@@ -1,10 +1,50 @@
 {
     "name": "KikeTabike",
     "description": "Ficha SH Kike Tabique",
-    "image": "https://raw.githubusercontent.com/canochaba/AssetsNFT/main/cara057_fron.png?token=GHSAT0AAAAAABSKNE7HOP4FFWY3OFPQAH2WYRIRHEA",
-    "attributes":
-    [{"trait_type": "Fur", "value":"Black"},{"trait_type":"Mouth","value":"Bored"},
-     {"trait_type": "Hat", "value":"Party Hat 1"},{"trait_type":"Earring","value":"Gold Stud"},
-    {"trait_type": "Background", "value":"Aquamarine"},{"trait_type":"Eyes","value":"Sleepy"}
-     ]
+    "image": "https://raw.githubusercontent.com/canochaba/AssetsNFT/main/cara057_fron.png",
+   "attributes": [
+    {
+      "trait_type": "Position", 
+      "value": "Midfield"
+    }, 
+    {
+      "trait_type": "Speed", 
+      "value": 30
+    },
+    {
+      "trait_type": "Attack", 
+      "value": 40
+    },   
+    {
+      "trait_type": "Defense", 
+      "value": 30
+    }, 
+    {
+      "trait_type": "Dribbling", 
+      "value": 50
+    }, 
+    {
+      "trait_type": "Stamina", 
+      "value": 100.0
+    }, 
+    {
+      "trait_type": "Personality", 
+      "value": "Angry"
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Dragon shot", 
+      "value": 40
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Tiger pass", 
+      "value": 20
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Stars", 
+      "value": 2
+    }
+  ]
 }
