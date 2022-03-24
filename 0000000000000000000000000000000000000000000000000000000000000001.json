@@ -5,14 +5,14 @@
    "attributes": [
     {
       "trait_type": "Position", 
-      "value": "Midfield"
+      "value": "MF"
     }, 
     {
       "trait_type": "Speed", 
       "value": 30
     },
     {
-      "trait_type": "Attack", 
+      "trait_type": "Shot", 
       "value": 40
     },   
     {
@@ -24,8 +24,8 @@
       "value": 50
     }, 
     {
-      "trait_type": "Stamina", 
-      "value": 100.0
+      "trait_type": "Pass", 
+      "value": 50
     }, 
     {
       "trait_type": "Personality", 
@@ -45,6 +45,11 @@
       "display_type": "number", 
       "trait_type": "Stars", 
       "value": 2
+    }
+    {
+      "display_type": "number", 
+      "trait_type": "Max_Level", 
+      "value": 99
     }
   ]
 }
