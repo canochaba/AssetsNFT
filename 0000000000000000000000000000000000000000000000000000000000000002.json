@@ -28,10 +28,6 @@
       "value": 50
     }, 
     {
-      "trait_type": "Stamina", 
-      "value": 100.0
-    }, 
-    {
       "trait_type": "Personality", 
       "value": "Happy"
     }, 
