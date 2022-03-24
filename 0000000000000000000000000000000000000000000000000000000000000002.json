@@ -5,14 +5,14 @@
     "attributes": [
     {
       "trait_type": "Position", 
-      "value": "Forward"
+      "value": "FWD"
     }, 
     {
       "trait_type": "Speed", 
       "value": 60
     },
     {
-      "trait_type": "Attack", 
+      "trait_type": "Shot", 
       "value": 90
     },   
     {
@@ -21,6 +21,10 @@
     }, 
     {
       "trait_type": "Dribbling", 
+      "value": 50
+    }, 
+    {
+      "trait_type": "Pass", 
       "value": 50
     }, 
     {
@@ -45,6 +49,11 @@
       "display_type": "number", 
       "trait_type": "Stars", 
       "value": 2
+    },
+     {
+      "display_type": "number", 
+      "trait_type": "Max_Level", 
+      "value": 99
     }
   ]
 }
